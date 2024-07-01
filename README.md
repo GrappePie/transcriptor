@@ -38,6 +38,7 @@ pip install torch sounddevice numpy whisper pyside6
 - `SMOOTHING_WINDOW`: Smoothing window to combine subtitles.
 - `TEMPERATURE`: Temperature to enhance transcription diversity.
 - `BEAM_SIZE`: Beam size for the decoder.
+- `LANGUAGE`: Language for transcription.
 
 3. Run the application:
 
